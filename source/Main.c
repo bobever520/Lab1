@@ -3,9 +3,8 @@
 
 int main()
 {
-	puts("Welcome to C!\n");
-	puts("My student id is:107360203 \n");
-	puts("My name is 糕马花\n");
+	puts("This is Ch0_Lab4, My name is 糕马花\n");
+
 	system("pause");
 	return 0;
 
