@@ -5,6 +5,7 @@ int main()
 {
 	puts("Welcome to C!\n");
 	puts("My student id is:107360203 \n");
+	puts("My name is ¸âÂí»¨\n");
 	system("pause");
 	return 0;
 
